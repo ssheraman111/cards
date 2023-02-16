@@ -1,0 +1,24 @@
+.container {
+  flex-direction: row;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  background-color: black;
+}
+.body1 {
+  display: flex;
+  flex-wrap: wrap;
+  font-style: normal;
+}
+.hey {
+  color: gold;
+  text-align: center;
+  /* display: flex;
+  justify-content: center; */
+  /* flex-wrap: wrap; */
+  /* background-color: aqua; */
+  border: 3px solid fuchsia;
+  border-radius: 15px;
+  margin: 30px 40px;
+  padding: 1px 90px;
+}
